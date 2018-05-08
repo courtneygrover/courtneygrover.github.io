@@ -1,8 +1,7 @@
 body {
       text-align: center;
-      background: url("http://photobucket.com/confirmation?token=hYdZpCStWbsRwGv0ai0ZlsTVxd7QpDvLd84t2SNuBkJdumCOubrXWdbnlWvyDLU0gaN73Qu6eO%2Fld2Xy80etPTHyU0vSgEi3");
-      background-size: cover;
-      background-position: center;
+      background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/turquoise.png");
+      background-repeat: no-repeat;
       color: white;
       font-family: helvetica;
     }
@@ -15,6 +14,6 @@ body {
       font-size: 18px;
     }
     input[type="submit"] {
-      background: red;
-      color: white;
+      background: white;
+      color: turquoise;
     }
