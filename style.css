@@ -2,27 +2,34 @@
       height: 400px;
       text-align: center;
       background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/turquoisewood.jpg");
-      background-repeat: no-repeat;
+      background-repeat: repeat-x;
       background-position: top;
-      background-size: 100%;
       color: white;
-      font-family: helvetica;
+      font-size: 50px;
+      font-family: consolas;
+      padding: 20px;
+    }
+    #profpic {
+      width: 400px;
+      padding-top: 25px;
+      display: block;
+      margin: auto;
+    }
+    #name {
+      width: 550px;
+      display: block;
+      margin: auto;
     }
     .body {
       text-align: center;
       background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/plain.png");
       padding-top: 25px;
+      font-size: 20px;
+      font-family: courier;
       height: 750px;
-    }
-    p {
-      font-size: 22px;
     }
     input {
       border: 0;
       padding: 10px;
       font-size: 18px;
-    }
-    input[type="submit"] {
-      background: white;
-      color: turquoise;
     }
