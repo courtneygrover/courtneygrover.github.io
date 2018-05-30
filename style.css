@@ -1,4 +1,4 @@
-  	.header {
+.header {
       height: 400px;
       text-align: center;
       background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/turquoisewood.jpg");
@@ -45,8 +45,50 @@
       border: 2px solid turquoise;
       padding-left: 10px;
       padding-right: 10px;
-    input {
-      border: 0;
-      padding: 10px;
-      font-size: 18px;
+    }
+    #li {
+      margin-left: 650px;
+      margin-top: -750px;
+    }
+    #gh {
+      margin-left: 875px;
+      margin-top: -750px;
+    }
+    .button {
+    border-radius: 4px;
+    background-color: turquoise;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+    }
+    
+    .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+    }
+    
+    .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+    }
+    
+    .button:hover span {
+    padding-right: 25px;
+    }
+    
+    .button:hover span:after {
+    opacity: 1;
+    right: 0;
     }
