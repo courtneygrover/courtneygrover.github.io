@@ -22,13 +22,13 @@
       display: block;
       margin: auto;
     }
-    .cactus {
-      background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/kisspng-saguaro-national-park-cactaceae-desert-clip-art-cactus-png-5a6b182db19896.9763392715169679817274.png");
-      background-repeat: repeat-y;
-      background-size: 100px;
-      height: 100%;
-      margin-top: -750px;
-      margin-left: 500px;
+    #cactus {
+      width:200px;
+      float: right;
+    }
+    #tree {
+      width: 200px;
+      float: left;
     }
     .body {
       text-align: center;
