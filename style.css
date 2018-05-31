@@ -1,4 +1,4 @@
-.header {
+    .header {
       height: 400px;
       text-align: center;
       background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/turquoisewood.jpg");
@@ -35,13 +35,21 @@
       padding-left: 25px;
       font-size: 20px;
       font-family: courier;
-      height: 750px;
+      height: 5000px;
     }
-    .paragraph {
+    #about-me {
       display: block;
+      padding-top: 25px;
       margin-left: 10px;
       min-width: 450px;
       max-width: 450px;
       padding-left: 10px;
       padding-right: 10px;
+    }
+    .button {
+      width: 25%;
+      background: turquoise;
+      color: white;
+      font-size: 20px;
+      font-family: courier;
     }
