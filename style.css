@@ -8,6 +8,8 @@
     }
     #title {
       width: 400px;
+	  display: block;
+	  margin: auto;
     }
     #profpic {
       width: 400px;
