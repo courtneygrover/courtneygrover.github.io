@@ -37,9 +37,7 @@
       font-size: 20px;
       font-family: calibri light;
       height: 5000px;
-    }
-    #about-me {
-      display: block;
+	  display: block;
       margin: auto;
       min-width: 600px;
       max-width: 600px;
