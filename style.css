@@ -5,9 +5,6 @@
       background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/turquoisewood.jpg");
       background-repeat: repeat-x;
       background-position: top;
-      color: white;
-      font-size: 50px;
-      font-family: consolas;
       padding: 20px;
     }
     #title {
@@ -38,7 +35,7 @@
       padding-top: 25px;
       padding-left: 25px;
       font-size: 20px;
-      font-family: courier;
+      font-family: calibri light;
       height: 5000px;
     }
     #about-me {
@@ -52,5 +49,5 @@
       background: turquoise;
       color: white;
       font-size: 20px;
-      font-family: courier;
+      font-family: calibri light;
     }
