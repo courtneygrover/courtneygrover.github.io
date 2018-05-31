@@ -36,11 +36,13 @@
       font-size: 20px;
       font-family: calibri light;
       height: 5000px;
+	}
+	.inner-body {
 	  display: block;
       margin: auto;
       min-width: 600px;
       max-width: 600px;
-    }
+	}
     .button {
       width: 25%;
       background: turquoise;
