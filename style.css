@@ -42,8 +42,8 @@
 	.inner-body {
 	  display: block;
       margin: auto;
-      min-width: 600px;
-      max-width: 600px;
+      min-width: 800px;
+      max-width: 800px;
 	}
     .button {
       width: 25%;
