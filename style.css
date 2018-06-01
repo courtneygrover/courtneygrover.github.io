@@ -23,15 +23,15 @@
       margin: auto;
     }
     #cactus {
-      width:200px;
+      width:100px;
       float: right;
     }
     #tree {
-      width: 200px;
+      width: 100px;
       float: left;
     }
 	#laptop {
-		width: 200px;
+		width: 250px;
 		float: left;
 	}
     .body {
