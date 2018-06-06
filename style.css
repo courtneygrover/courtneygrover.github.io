@@ -34,8 +34,10 @@
 		width: 250px;
 		float: left;
 	}
+	.bar {
+		text-align: center;
+	}
     .body {
-      text-align: center;
       background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/plain.png");
       padding-top: 25px;
       padding-left: 25px;
@@ -46,8 +48,8 @@
 	.inner-body {
 	  display: block;
       margin: auto;
-      min-width: 850px;
-      max-width: 850px;
+      min-width: 900px;
+      max-width: 900px;
 	}
     .button {
       width: 25%;
