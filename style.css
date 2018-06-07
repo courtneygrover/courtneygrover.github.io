@@ -1,4 +1,4 @@
-    .header {
+	.header {
       height: 400px;
       text-align: center;
       background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/turquoisewood.jpg");
@@ -36,6 +36,7 @@
 	}
 	.bar {
 		text-align: center;
+
 	}
     .body {
       background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/plain.png");
