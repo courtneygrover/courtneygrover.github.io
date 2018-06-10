@@ -1,61 +1,81 @@
-	.header {
-      height: 400px;
-      text-align: center;
-      background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/turquoisewood.jpg");
-      background-repeat: repeat-x;
-      background-position: top;
-      padding: 20px;
-    }
-    #title {
-      width: 400px;
-	  display: block;
-	  margin: auto;
-    }
-    #profpic {
-      width: 400px;
-      padding-top: 25px;
-      display: block;
-      margin: auto;
-    }
-    #name {
-      width: 550px;
-      display: block;
-      margin: auto;
-    }
-    #cactus {
-      width:100px;
-      float: right;
-    }
-    #tree {
-      width: 100px;
-      float: left;
-    }
-	#laptop {
-		width: 250px;
-		float: left;
-	}
-	.bar {
-		text-align: center;
+/******************************************* HEADER/BODY *******************************************/
+.header {
+	height: 400px;
+	text-align: center;
+	background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/turquoisewood.jpg");
+	background-repeat: repeat-x;
+	background-position: top;
+	padding: 20px;
+}
 
-	}
-    .body {
-      background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/plain.png");
-      padding-top: 25px;
-      padding-left: 25px;
-      font-size: 20px;
-      font-family: calibri light;
-      height: 5000px;
-	}
-	.inner-body {
-	  display: block;
-      margin: auto;
-      min-width: 900px;
-      max-width: 900px;
-	}
-    .button {
-      width: 25%;
-      background: turquoise;
-      color: white;
-      font-size: 20px;
-      font-family: calibri light;
-    }
+.body {
+	background: url("http://i761.photobucket.com/albums/xx252/courty40fresh/plain.png");
+	padding-top: 25px;
+	padding-left: 25px;
+	font-size: 20px;
+	font-family: calibri light;
+	height: 5000px;
+}
+
+.inner-body {
+	display: block;
+	margin: auto;
+	min-width: 900px;
+	max-width: 900px;
+}
+
+.resume {
+	text-align: center;
+}
+
+.projects {
+	
+}
+/******************************************* IMAGES *******************************************/
+#title {
+	width: 400px;
+	display: block;
+	margin: auto;
+}
+
+#profpic {
+	width: 400px;
+	padding-top: 25px;
+	display: block;
+	margin: auto;
+}
+
+#name {
+	width: 550px;
+	display: block;
+	margin: auto;
+}
+
+#cactus {
+	width:100px;
+	float: right;
+}
+
+#tree {
+	width: 100px;
+	float: left;
+}
+
+#laptop {
+	width: 250px;
+	float: left;
+}
+/******************************************* BUTTONS *******************************************/
+.bar {
+	text-align: center;
+}
+
+.button {
+	display: block;
+	margin: auto;
+	width: 25%;
+	background: turquoise;
+	color: white;
+	font-size: 20px;
+	font-family: calibri light;
+}
